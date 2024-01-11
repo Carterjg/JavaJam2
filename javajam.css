@@ -1,0 +1,93 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    background: url('fadedroad50.jpg') no-repeat fixed;
+    background-size: cover;
+    color: #221811;
+    font-family: Tahoma, Arial, sans-serif;
+  }
+  
+  #homehero {
+    height: 300px;
+    background: url('hero.jpg') no-repeat center;
+    background-size: cover;
+  }
+  
+  #wrapper {
+    background-color: #FEFAEB;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    padding: 0;
+    overflow: auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+  
+  header {
+    background: url('coffeelogo.jpg') no-repeat;
+    background-size: contain;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    color: #231814;
+  }
+  
+  h1 {
+    font-size: 3em;
+  }
+  
+  nav {
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  nav a {
+    text-decoration: none;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline;
+    margin-right: 15px;
+  }
+  
+  footer {
+    background-color: #D2B48C;
+    padding: 1em;
+    border-top: 2px solid #8C3826;
+    font-size: 1em;
+    text-align: center;
+  }
+  
+  h4 {
+    background-color: #D2B48C;
+    font-size: 1.2em;
+    padding-left: 0.5em;
+    padding-bottom: 0.25em;
+  }
+  
+  main {
+    padding: 0 2em 2em;
+  }
+  
+  .details {
+    padding: 20% 0;
+  }
+  
+  img {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  
+  #homehero {
+    height: 300px;
+    background: url('hero.jpg') no-repeat center;
+    background-size: cover;
+  }
+  
